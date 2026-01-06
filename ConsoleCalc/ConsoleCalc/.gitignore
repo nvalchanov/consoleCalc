@@ -1,0 +1,97 @@
+# Build Folders
+bin/
+obj/
+[Rr]elease/
+[Dd]ebug/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache and temporary files
+.vs/
+*.vsp
+*.vspscc
+*.vssscc
+*.tmp
+*.tmp_proj
+*.log
+
+# Rider IDE files
+.idea/
+
+# Mono auto-generated files
+*.pidb
+*.booproj
+*.svd
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.app
+*.lib
+*.so
+*.dylib
+*.nupkg
+*.snupkg
+*.cache
+*.msi
+*.msp
+*.msm
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET temporary files
+*.vspscc
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlh
+*.tli
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Others
+*.DS_Store
+*.bak
+*.swp
+*.orig
