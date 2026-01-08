@@ -27,4 +27,5 @@ else
     Console.WriteLine("Error: Invalid operation");
 }
 
-//this is a change
+// There are some comments from the CC-1-remove-comments branch
+// More comments from the CC-1-remove-comments branch
