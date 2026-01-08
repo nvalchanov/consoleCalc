@@ -26,3 +26,6 @@ else
 {
     Console.WriteLine("Error: Invalid operation");
 }
+
+// There are some comments from the CC-1-remove-comments branch
+// More comments from the CC-1-remove-comments branch
