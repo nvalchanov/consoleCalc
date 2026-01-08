@@ -27,5 +27,5 @@ else
     Console.WriteLine("Error: Invalid operation");
 }
 
-// There are some comments from the CC-1-remove-comments branch
-// More comments from the CC-1-remove-comments branch
+// Това беше променено в CA-2 клона с първи commit
+// Това беше променено в CA-2 клона с втори commit
